@@ -78,7 +78,7 @@ namespace SetProxy
                                     Exceptions = value;
                                     break;
                                 case "/connection":
-                                    ConnqqqqqqqqectionName = value;
+                                    ConnectionName = value;
                                     break;
                                 default:
                                     Console.WriteLine(string.Format("Unrecognized parameter '{0}' - value ignored", s));
